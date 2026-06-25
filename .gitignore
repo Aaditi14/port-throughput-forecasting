@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+
+# Database (binary file, not needed on GitHub)
+*.db
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
